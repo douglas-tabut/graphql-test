@@ -1,0 +1,1 @@
+Wrap Graphql on Star Wars API
